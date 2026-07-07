@@ -1,3 +1,4 @@
+//Traditional Function
 function addTwoNumbers(){
     let number1=30
     let number2=50
@@ -9,3 +10,4 @@ function addTwoNumbers(){
 
 }
 addTwoNumbers()
+
